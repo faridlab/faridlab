@@ -12,6 +12,7 @@ I'm a software engineer and tech consultant
 <img align="left" alt="CSS" width="64px" src="assets/css3.png" />
 <img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
 <img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
+<img align="left" alt="Python" width="64px" src="assets/python.png" />
 
 <br />
 <br />
