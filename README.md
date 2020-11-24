@@ -6,7 +6,14 @@ I'm a software engineer and tech consultant
 
 
 ### Tech Stack
-<img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
+
+<img align="left" alt="Javascript" width="52px" src="assets/js.png" />
+<img align="left" alt="HTML5" width="52px" src="assets/html5.png" />
+<img align="left" alt="CSS" width="52px" src="assets/css3.png" />
+<img align="left" alt="Nodejs" width="52px" src="assets/nodejs.png" />
+<img align="left" alt="Flutter" width="52px" src="assets/flutter.png" />
+
+<br />
 
 ### Connect with me:
 
@@ -16,6 +23,7 @@ I'm a software engineer and tech consultant
 [<img align="left" alt="Farid Hidayat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<br/>
 ---
 
 [website]: https://faridlab.github.io
