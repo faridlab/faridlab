@@ -7,12 +7,16 @@ I'm a software engineer and tech consultant
 
 ### Tech Stack
 
-<img align="left" alt="Javascript" width="52px" src="assets/js.png" />
-<img align="left" alt="HTML5" width="52px" src="assets/html5.png" />
-<img align="left" alt="CSS" width="52px" src="assets/css3.png" />
-<img align="left" alt="Nodejs" width="52px" src="assets/nodejs.png" />
-<img align="left" alt="Flutter" width="52px" src="assets/flutter.png" />
+<img align="left" alt="Javascript" width="64px" src="assets/js.png" />
+<img align="left" alt="HTML5" width="64px" src="assets/html5.png" />
+<img align="left" alt="CSS" width="64px" src="assets/css3.png" />
+<img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
+<img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
 
+<br />
+<br />
+<br />
+<br />
 <br />
 
 ### Connect with me:
