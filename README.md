@@ -14,6 +14,8 @@ I'm a software engineer and tech consultant
 <img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
 <img align="left" alt="Python" width="64px" src="assets/python.png" />
 <img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
+<img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
+
 
 <br />
 <br />
