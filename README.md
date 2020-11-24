@@ -7,15 +7,18 @@ I'm a software engineer and tech consultant
 
 ### Tech Stack
 
+<img align="left" alt="Golang" width="64px" src="assets/golang.png" />
+<img align="left" alt="Python" width="64px" src="assets/python.png" />
+<img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
+<img align="left" alt="Laravel" width="64px" src="assets/laravel.png" />
+
+<img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
+<img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
+<img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
+
 <img align="left" alt="Javascript" width="64px" src="assets/js.png" />
 <img align="left" alt="HTML5" width="64px" src="assets/html5.png" />
 <img align="left" alt="CSS" width="64px" src="assets/css3.png" />
-<img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
-<img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
-<img align="left" alt="Python" width="64px" src="assets/python.png" />
-<img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
-<img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
-<img align="left" alt="Laravel" width="64px" src="assets/laravel.png" />
 
 
 <br />
