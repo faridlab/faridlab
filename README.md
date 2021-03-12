@@ -24,6 +24,8 @@ I'm a software engineer and tech consultant
 <img align="left" alt="CSS" width="64px" src="assets/css3.png" />
 
 <br />
+<br />
+<br />
 
 <img align="left" alt="Utmostphere" height="64px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" />
 Founder & Owner, **Utmostphere**
