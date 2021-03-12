@@ -6,16 +6,11 @@ I'm a software engineer and tech consultant
 
 <img alt="Utmostphere" height="32px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
 Founder & Owner, **Utmostphere**<br/>
-m: +62857-70-9000-25<br/>
-a: Bintaro, Pesanggrahan  Jakarta Selatan 12330<br/>
 w: https://utmostphere.com<br/>
 
 <img alt="Startapp" height="32px" src="assets/startapp-logo.png" /><br/>
 Founder, **StartApp**<br/>
 w: https://startapp.id/<br/>
-
-### Projects
-
 
 ### Tech Stack
 
@@ -38,6 +33,8 @@ w: https://startapp.id/<br/>
 <br />
 <br />
 <br />
+
+### Projects
 
 ### Connect with me:
 
