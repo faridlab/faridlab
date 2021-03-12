@@ -26,19 +26,26 @@ I'm a software engineer and tech consultant
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
-<img align="left" alt="Utmostphere" height="64px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" />
-Founder & Owner, **Utmostphere**
-m: +62857-70-9000-25
-a: Bintaro, Pesanggrahan  Jakarta Selatan 12330
-w: https://utmostphere.com
+<img align="left" alt="Utmostphere" height="64px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
+Founder & Owner, **Utmostphere**<br/>
+m: +62857-70-9000-25<br/>
+a: Bintaro, Pesanggrahan  Jakarta Selatan 12330<br/>
+w: https://utmostphere.com<br/>
 
-<img align="left" alt="Startapp" height="64px" src="assets/startapp-logo.png" />
-Founder, **StartApp**
-w: https://startapp.id/
+<br/><br/>
+
+<img align="left" alt="Startapp" height="64px" src="assets/startapp-logo.png" /><br/>
+Founder, **StartApp**<br/>
+w: https://startapp.id/<br/>
 
 <br/>
+
 ### Connect with me:
+
 [<img align="left" alt="Farid Hidayat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="Farid Hidayat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Farid Hidayat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
