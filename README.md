@@ -2,6 +2,9 @@
 
 I'm a software engineer and tech consultant
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faridlab)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Projects
 
 
