@@ -1,6 +1,6 @@
 ### Hello world, Farid Here! 👋
 
-I'm a software engineer and tech consultant
+I'm a Tech Consultant & IT Business Consultant.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faridlab)](https://github.com/anuraghazra/github-readme-stats)
 
