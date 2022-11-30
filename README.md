@@ -2,11 +2,11 @@
 
 I'm a Tech Consultant & IT Business Consultant.
 
-<img alt="Utmostphere" height="32px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
+<img alt="Utmostphere" height="52px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
 Founder & Owner, **Utmostphere**<br/>
 w: https://utmostphere.com<br/>
 
-<img alt="Startapp" height="32px" src="https://startapp.id/wp-content/uploads/2022/09/StartApp-Logo-Master-dark.png" /><br/>
+<img alt="Startapp" height="64px" src="https://startapp.id/wp-content/uploads/2022/09/StartApp-Logo-Master-dark.png" /><br/>
 Founder, **StartApp**<br/>
 w: https://startapp.id/<br/>
 
