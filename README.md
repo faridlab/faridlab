@@ -1,6 +1,6 @@
 ### Hello world, Farid Here! 👋
 
-I'm a Tech Consultant & IT Business Consultant.
+I'm a Distinguished Product Engineer, Senior Software Engineer, Tech Consultant & IT Business Consultant.
 
 <img alt="Utmostphere" height="52px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
 Founder & Owner, **Utmostphere**<br/>
