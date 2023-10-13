@@ -1,14 +1,6 @@
-### Hello world, Farid Here! 👋
+### Farid Hidayat - Product Engineer
 
-I'm a Distinguished Product Engineer, Senior Software Engineer, Tech Consultant & IT Business Consultant.
-
-<img alt="Utmostphere" height="52px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
-Founder & Owner, **Utmostphere**<br/>
-w: https://utmostphere.com<br/>
-
-<img alt="Startapp" height="64px" src="https://startapp.id/wp-content/uploads/2022/09/StartApp-Logo-Master-dark.png" /><br/>
-Founder, **StartApp**<br/>
-w: https://startapp.id/<br/>
+I'm a Product Engineer, Tech Consultant & IT Business Consultant keen on building and shipping innovative products geared toward simplifying, and improving people life.
 
 ### Tech Stack
 
@@ -45,3 +37,13 @@ w: https://startapp.id/<br/>
 [twitter]: https://twitter.com/faridlab
 <!-- [youtube]: https://youtube.com/faridlab -->
 [linkedin]: https://linkedin.com/in/faridlab
+
+----
+
+<img alt="Utmostphere" height="52px" src="https://utmostphere.github.io/utmostphere-grayscalse.png" /><br/>
+Founder & Owner, **Utmostphere**<br/>
+w: https://utmostphere.com<br/>
+
+<img alt="Startapp" height="64px" src="https://startapp.id/wp-content/uploads/2022/09/StartApp-Logo-Master-dark.png" /><br/>
+Founder, **StartApp**<br/>
+w: https://startapp.id/<br/>
