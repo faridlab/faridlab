@@ -8,23 +8,56 @@ I'm a Product Engineer, Tech Consultant & IT Business Consultant keen on buildin
 <img align="left" alt="Python" width="64px" src="assets/python.png" />
 <img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
 <img align="left" alt="Laravel" width="64px" src="assets/laravel.png" />
-
+<br/>
 <img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
 <img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
 <img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
-
+<br/>
 <img align="left" alt="Javascript" width="64px" src="assets/js.png" />
 <img align="left" alt="HTML5" width="64px" src="assets/html5.png" />
 <img align="left" alt="CSS" width="64px" src="assets/css3.png" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+### Porducts
+#### Kurawal
+#### Brokoli
+#### Pinterkelas
 
 ### Projects
+#### Gofleet Driver - Gojek & Astra
+Aplikasi khusus untuk mitra driver gofleet untuk menerima informasi pemberitahuan, membaca kebijakan, mengajukan pertanyaan mengenai segala hal terkait operasional mitra driver gofleet.
+
+Technology:
+- React Native
+- Webapp (React.js)
+- Laravel PHP (REST API)
+- SQL Server
+
+#### Densus88 - Internal App
+Manual book app reader for Densus' members
+
+Technology:
+- Flutter
+- Webapp (React.js)
+- Laravel PHP (REST API)
+- MySQL
+
+#### IdeaFest 2019 - LOKET
+Loket App Conference
+
+Technology:
+- Flutter
+- Webapp (React.js)
+- Laravel PHP (REST API)
+- MySQL
+
+#### DEN - Digital Education Network
+The Pioneer of Engagement Centre in Digital Education Network. All In One App
+
+Technology:
+- React Native
+- Webapp (React.js)
+- Laravel PHP (REST API)
+- MySQL
 
 ### Connect with me:
 
