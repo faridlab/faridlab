@@ -27,7 +27,7 @@ Aplikasi khusus untuk mitra driver gofleet untuk menerima informasi pemberitahua
 Technology:
 - React Native
 - Webapp (React.js)
-- Laravel PHP (REST API)
+- Node (REST API)
 - SQL Server
 
 #### Densus88 - Internal App
@@ -36,7 +36,7 @@ Manual book app reader for Densus' members
 Technology:
 - Flutter
 - Webapp (React.js)
-- Laravel PHP (REST API)
+- Go (REST API)
 - MySQL
 
 #### IdeaFest 2019 - LOKET
@@ -45,7 +45,7 @@ Loket App Conference
 Technology:
 - Flutter
 - Webapp (React.js)
-- Laravel PHP (REST API)
+- Node (REST API)
 - MySQL
 
 #### DEN - Digital Education Network
@@ -54,7 +54,7 @@ The Pioneer of Engagement Centre in Digital Education Network. All In One App
 Technology:
 - React Native
 - Webapp (React.js)
-- Laravel PHP (REST API)
+- Node (REST API)
 - MySQL
 
 ### Connect with me:
