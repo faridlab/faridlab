@@ -12,9 +12,12 @@ I'm a Product Engineer, Tech Consultant & IT Business Consultant keen on buildin
 <img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
 <img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
 <img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
+<img align="left" alt="Typescript" width="64px" src="assets/typescript.png" />
 <img align="left" alt="Javascript" width="64px" src="assets/js.png" />
 <img align="left" alt="HTML5" width="64px" src="assets/html5.png" />
 <img align="left" alt="CSS" width="64px" src="assets/css3.png" />
+
+<br/>
 
 ### Porducts
 #### Kurawal
