@@ -8,6 +8,7 @@ I'm a Product Engineer, Tech Consultant & IT Business Consultant keen on buildin
 <img align="left" alt="Python" width="64px" src="assets/python.png" />
 <img align="left" alt="Nodejs" width="64px" src="assets/nodejs.png" />
 <img align="left" alt="Laravel" width="64px" src="assets/laravel.png" />
+<img align="left" alt="Kotlin" width="64px" src="assets/kotlin.png" />
 <img align="left" alt="Flutter" width="64px" src="assets/flutter.png" />
 <img align="left" alt="Vuejs" width="64px" src="assets/vuejs.png" />
 <img align="left" alt="Reactjs" width="64px" src="assets/reactjs.png" />
