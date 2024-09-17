@@ -19,48 +19,6 @@ I'm a Product Engineer, Tech Consultant & IT Business Consultant keen on buildin
 
 <br/>
 
-### Porducts
-#### Kurawal
-#### Brokoli
-#### Pinterkelas
-
-### Projects
-#### Gofleet Driver - Gojek & Astra
-Aplikasi khusus untuk mitra driver gofleet untuk menerima informasi pemberitahuan, membaca kebijakan, mengajukan pertanyaan mengenai segala hal terkait operasional mitra driver gofleet.
-
-Technology:
-- React Native
-- Webapp (React.js)
-- Node (REST API)
-- SQL Server
-
-#### Densus88 - Internal App
-Manual book app reader for Densus' members
-
-Technology:
-- Flutter
-- Webapp (React.js)
-- Go (REST API)
-- MySQL
-
-#### IdeaFest 2019 - LOKET
-Loket App Conference
-
-Technology:
-- Flutter
-- Webapp (React.js)
-- Node (REST API)
-- MySQL
-
-#### DEN - Digital Education Network
-The Pioneer of Engagement Centre in Digital Education Network. All In One App
-
-Technology:
-- React Native
-- Webapp (React.js)
-- Node (REST API)
-- MySQL
-
 ### Connect with me:
 
 [<img align="left" alt="Farid Hidayat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
